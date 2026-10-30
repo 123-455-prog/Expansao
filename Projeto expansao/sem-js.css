@@ -1,5 +1,0 @@
-/* Carregado só quando o JavaScript está desligado (ver <noscript> no index.html).
-   Sem as rotas por #, todas as seções aparecem em sequência e o menu vira âncora comum.
-   Esconde o que só existe quando o script monta o conteúdo (carrossel, faixa de serviços e portfólio). */
-.page{display:block}
-.reel,#faixa,#portfolio,nav a[href="#portfolio"],.dd .menu{display:none}
